@@ -16,8 +16,8 @@ class TestPalindrome(unittest2.TestCase):
 
     #the reversed word
     def test_reverse_normal(self):
-        value = list.reverse('hello')
-        self.assertEquals(value, 'olleh')
+        value = list.reverse('man')
+        self.assertEquals(value, 'nam')
 
    # Raise type errors are raised whenever necessary
     def test_reverse_error(self):
