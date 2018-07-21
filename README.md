@@ -3,7 +3,7 @@
 
 Developer: Meshack Kitonga ( kitongameshack9@gmail.com )
 
-This is a simple python program on python TDD. The program checks whether a word is a palindrome or not. 
+This is a simple python program on TDD. The program checks whether a word is a palindrome or not. 
 This is implemented using Stack Data structure in python. 
 
 Use Case:
