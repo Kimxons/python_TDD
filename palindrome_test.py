@@ -19,7 +19,7 @@ class TestPalindrome(unittest2.TestCase):
         value = list.reverse('man')
         self.assertEquals(value, 'nam')
 
-   # Raise type errors are raised whenever necessary
+   # Raise type errors whenever necessary
     def test_reverse_error(self):
         list_of_bad_value = [
         345,
