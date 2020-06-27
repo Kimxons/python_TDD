@@ -1,6 +1,6 @@
 # PYTHON_TDD
 
-
+#Andela
 Developer: Meshack Kitonga ( kitongameshack9@gmail.com )
 
 This is a simple python program on TDD. The program checks whether a word is a palindrome or not. 
